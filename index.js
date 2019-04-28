@@ -17,11 +17,11 @@ function johnLennonFacts(facts) {
   return lennonArray;
 }
 
-function iLoveTheBeatles(oodles) {
+function iLoveTheBeatles(amount) {
 let beatlesLove = [];
-let oodles = 4;
+let amount = 4;
   do {
     beatlesLove.push('I love the Beatles');
-    oodles++
-  } while (oodles < 15);
+    amount++
+  } while (amount < 15);
 }
