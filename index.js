@@ -16,3 +16,11 @@ function johnLennonFacts(facts) {
   }
   return lennonArray;
 }
+
+function iLoveTheBeatles(oodles) {
+beatlesLove = [];
+
+  do {
+    oodles++
+  } while (oodles < 15);
+}
