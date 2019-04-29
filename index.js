@@ -22,6 +22,7 @@ let beatlesLove = [];
 let amount = 4;
   do {
     beatlesLove.push('I love the Beatles');
-    amount++
+    amount++;
   } while (amount < 15);
+return beatlesLove;
 }
