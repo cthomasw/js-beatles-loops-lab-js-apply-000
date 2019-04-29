@@ -21,7 +21,8 @@ function iLoveTheBeatles(amount) {
 let beatlesLove = [];
 let i = 0;
   do {
-    beatlesLove[i] = 'I love the Beatles!'
+    beatlesLove[i] = 'I love the Beatles!';
+    i++;
     amount++;
   } while (amount < 15);
 
