@@ -21,8 +21,8 @@ function iLoveTheBeatles(amount) {
 let beatlesLove = [];
 let amount = 4;
   do {
-    
+    'I love the Beatles!'
     amount++;
   } while (amount < 15);
-
+return beatlesLove;
 }
