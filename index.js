@@ -24,5 +24,6 @@ let i = 0;
     amount++;
     i = i + 'I love the Beatles!'
   } while (amount < 15);
+
 return beatlesLove;
 }
