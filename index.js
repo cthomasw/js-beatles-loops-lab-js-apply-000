@@ -19,8 +19,7 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(amount) {
 let beatlesLove = [];
-let amount = 4;
-let i = 0
+let i = 0;
   do {
     'I love the Beatles!'
     amount++;
